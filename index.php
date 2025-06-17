@@ -1,6 +1,6 @@
 <?php
 $API_KEY = '7537566063:AAGzNVw4Stj6oyFkGpzrW5NyrZNIk9N-Oxc';
-$chat_id = '-1002566159762'; // ID القروب
+$chat_id = '-1002509155667'; // ID القروب
 
 // جميع الإعلانات في مصفوفة
 $ads = [
